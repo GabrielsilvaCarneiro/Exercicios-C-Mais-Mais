@@ -1,3 +1,1 @@
-﻿  Exercicio C++ 01.cpp
-C:\Users\48600221811\Desktop\Exercicio C++ 01\Exercicios-C-Mais-Mais\Exercicio C++ 01.cpp(76,11): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
-  Exercicio C++ 01.vcxproj -> C:\Users\48600221811\Desktop\Exercicio C++ 01\Exercicios-C-Mais-Mais\x64\Debug\Exercicio C++ 01.exe
+﻿C:\Users\48600221811\Desktop\Exercicio C++ 01\Exercicio C++ 01.vcxproj : error MSB4025: Não foi possível carregar o arquivo de projeto. Não foi possível localizar o arquivo 'C:\Users\48600221811\Desktop\Exercicio C++ 01\Exercicio C++ 01.vcxproj'.
